@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\Alignment.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\Attraction.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\Collision.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\CollisionMinDist.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\PairForce.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\Particle.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\RandPropulsion.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\Resistance.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\SingleForce.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\Spring.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxParticlesLyu\src\VerticalForce.cpp">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxParticlesLyu">
+			<UniqueIdentifier>{AC5C88FF-A131-AA95-2AB5-DA23}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxParticlesLyu\src">
+			<UniqueIdentifier>{C52CDDBA-66DF-7898-BB81-8B1D}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\Alignment.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\Attraction.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\Collision.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\CollisionMinDist.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\PairForce.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\Particle.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\RandPropulsion.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\Resistance.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\SingleForce.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\Spring.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxParticlesLyu\src\VerticalForce.h">
+			<Filter>addons\ofxParticlesLyu\src</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
